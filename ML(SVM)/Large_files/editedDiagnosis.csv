@@ -1,0 +1,501 @@
+Unnamed: 0,diagnosis,drugs,result
+0,Severe plasmodiasis / febrile convulsion,Ceftriaxone/gentamicin,Effective
+1,Malaria/pertussis,Ceftriaxone,Effective
+2,ENTERIC FEVER,Ceftriaxone/gentamicin,Effective
+3,Appendicitis/appendix mass,Ceftriaxone/intravenous flagyl,Effective
+4,Neonatal sepsis,Ceftriaxone/gentamicin,Less Effective
+5,bronchopneumonia /intestinal colic,Ceftriaxone / intravenous flagyl/gentamicin /augmentin,Effective
+6,bronchopneumonia,Ceftriaxone/gentamicin,Effective
+7,Hepatomegaly/plasmodiasis,Ceftriaxone/gentamicin,Effective
+8,Bronchial asthma,Ceftriaxone/gentamicin,Effective
+9,Sub-acute appendicitis,Ceftriaxone/gentamicin/intravenous flagyl,Effective
+10,Neonatal  sepsis,Ceftriaxone/gentamicin/intravenous flagyl,Effective
+11,Diarrheal disease,Ceftriaxone/gentamicin/intravenous flagyl,Effective
+12,tonsillitis,intravenous  Ceftriaxone,Effective
+13,Severe Malaria/Bronchopneumonia,Ceftriazone/Gentamicin/Intravenous Flagyl,Effective
+14,Upper Respiratory Tract Infection/ Bronchopneumonia,Ceftriazone/Gentamicin/Flagyl,Effective
+15,Malaria,Ceftriaxone,Effective
+16,Supervisal Burns,Intravenous (Ceftriazone/Gentamicin/Flagyl),Effective
+17,Plasmodiasis,Ceftriazone/Gentamicin,Effective
+18,Plasmodiasis / Enteric Fever,Ceftriazone/Gentamicin/ Flagyl,Effective
+19,Upper Respiratory Tract Infection/Malaria,Gentamicin/ Flagyl,Effective
+20,Upper Respiratory Tract Infection/ Bronchopneumonia,Gentamicin/Flagyl,Effective
+21, Severe Malaria With Convulsion,Ceftriazone/Gentamicin,Effective
+22,Acute diarrhea,Ceftriaxone/ Flagyl,Effective
+23,Gastroenteritis,Ceftriaxone/ Flagyl,Effective
+24,Severe Malaria,Ceftriazone/Gentamicin,Effective
+25,Tonsillitis Upper Respiratory Tract Infection,Gentamicin/ crystalline penicillin,Effective
+26,Tonsillitis /malaria,Gentamicin/ crystalline penicillin,Effective
+27,Tonsillitis /malaria, crystalline penicillin /rocephin,Effective
+28,Malaria / FEBRILE CONVULSION,Ceftriazone/Gentamicin,Effective
+29,Severe malaria with  prostration and anemia ,Ceftriazone /Gentamicin,Effective
+30,Hepatosplenomegaly/malaria,Ceftriazone /Gentamicin/flagyl,Effective
+31,Nephrotic syndrome / liver abscess ,Ceftriazone /flagyl,Effective
+32,Tonsillitis /malaria ,Crystalline penicillin,Effective
+33,Plasmodiasis /tonsillitis ,Crystalline penicillin/Gentamicin,Effective
+34,Neonatal sepsis ,Ceftriazone /Gentamicin,Less Effective
+35,Plasmodiasis,Ceftriazone/flagyl,Effective
+36,Malaria /upper respiratory tract infection ,Ceftriazone /Gentamicin,Effective
+37,Malaria /upper respiratory tract infection,Ceftriazone /Gentamicin,Effective
+38,Malaria / tonsillitis ,Ceftriazone /Gentamicin,Effective
+39,Spactics bronchitis ,Gentamicin,Effective
+40,Febrile convulsion,Crystalline penicillin/Gentamicin,Effective
+41,Septicaemia,Ceftriazone /Gentamicin/septrin,Effective
+42,Septic rashes,Ceftriazone /Gentamicin,Effective
+43,bronchitis,Gentamicin/ Ceftriaxone,Effective
+44,plasmodiasis/gastroenteritis,flagyl/ Ceftriaxone,Effective
+45,malaria,IV Gentamicin/ Ceftriaxone,Effective
+46,bronchopneumonia,Gentamicin/ Ceftriaxone,Effective
+47,malaria/ upper respiratory tract infection ,Gentamicin/ Ceftriaxone,Effective
+48,Acute diarrhea,flagyl/ Ceftriaxone,Effective
+49,gastroenteritis, Ceftriaxone,Effective
+50,dysentery,flagyl/ Ceftriaxone/ Gentamicin,Effective
+51,bronchopneumonia,Ceftriaxone/gentamicin,Effective
+52,Hepatomegaly/plasmodiasis,Ceftriaxone/gentamicin,Effective
+53,Bronchial asthma,Ceftriaxone/gentamicin,Effective
+54,Sub-acute appendicitis,Ceftriaxone/gentamicin/intravenous flagyl,Effective
+55,Neonatal  sepsis,Ceftriaxone/gentamicin/intravenous flagyl,Effective
+56,Diarrheal disease,Ceftriaxone/gentamicin/intravenous flagyl,Effective
+57,Acute gastroenteritis /malaria ,Flagyl,Effective
+58,Omphalitis ,Rocephin /Gentamicin,Effective
+59,Amoebic hepatitis ,Ceftriazone /Gentamicin,Effective
+60,Malaria / sepsis ,Ceftriazone /Gentamicin/flagyl,Effective
+61,Malaria ,Ceftriazone /Gentamicin,Effective
+62,Severe malaria /anemia ,Ceftriazone /Gentamicin,Effective
+63,Severe malaria /anemia,ceftriaxone/flagyl,Effective
+64,Malaria /sepsis ,ceftriaxone,Effective
+65,Asthmatic attack,Ceftriazone /Gentamicin,Effective
+66,fungal dermatitis/ upper respiratory tract infection,Ceftriazone / FLAGYL,Effective
+67,Severe malaria,Ceftriazone /Gentamicin,Effective
+68,burns ,Ceftriazone /Gentamicin/flagyl,Effective
+69,diarrhea /dehydration,flagyl/ Gentamicin,Effective
+70,severe malaria,flagyl/ Gentamicin/ Ceftriaxone,Effective
+71,tonsillitis,flagyl/ Ceftriaxone,Effective
+72,severe anemia / malaria,flagyl/ Gentamicin/ Ceftriaxone,Effective
+73,bronchopneumonia,flagyl/ Gentamicin,Effective
+74,neonatal sepsis,flagyl/ Gentamicin/ Ceftriaxone,Effective
+75,severe malaria,Gentamicin/ Ceftriaxone,Effective
+76,plasmodiasis,flagyl/ Ceftriaxone,Effective
+77,severe malaria,flagyl/ Ceftriaxone,Effective
+78, bronchopneumonia,crystalline penicillin/Gentamicin,Effective
+79,plasmodiasis,Augmentin,Effective
+80,severe malaria,Ceftriaxone,Effective
+81,plasmodiasis /diarrhea,Gentamicin/ Ceftriaxone,Effective
+82,road traffic accident,flagyl/ IV Ceftriaxone,Effective
+83,tonsillitis,flagyl/ Gentamicin,Effective
+84,seizure disorder/cerebral palsy ,IV Gentamicin/ Ceftriaxone,Effective
+85,febrile convulsion ,Gentamicin/ Ceftriaxone,Effective
+86,spastic bronchitis / malaria,Gentamicin/ Ceftriaxone,Effective
+87,tonsillitis / upper respiratory tract infection,crystalline penicillin/ Gentamicin,Effective
+88,dysentery,flagyl/ Gentamicin,Effective
+89,massive cellulitis,Ceftriaxone/flagyl,Effective
+90,neonatal titannus,Gentamicin/Ceftriaxone,Effective
+91,typhoid fever ,Gentamicin/Ceftriaxone,Effective
+92,protein energy mal-nutrition,flagyl/ Ceftriaxone,Effective
+93,meningitis,crystalline penicillin/ Gentamicin/flagyl,Effective
+94,acute abdomen,Gentamicin/flagyl/Ceftriaxone,Effective
+95,acute anemia  / severe malaria,Gentamicin/flagyl/Ceftriaxone,Effective
+96, acute respiratory tract infection,Gentamicin/ Ceftriaxone,Effective
+97,upper respiratory tract infection,Gentamicin/ Ceftriaxone,Effective
+98,neonatal titannus,Ceftriaxone/ Gentamicin,Effective
+99,bronchitis,Ceftriaxone/ Gentamicin,Effective
+100,neonatal sepsis,Ceftriaxone/ Gentamicin,Effective
+101,plasmodiasis,Ceftriaxone/ Gentamicin,Effective
+102,severe malaria ,Gentamicin,Effective
+103,severe malaria ,Ceftriaxone/ Gentamicin,Effective
+104,malaria,Ceftriaxone/ Gentamicin,Effective
+105,bronchitis/malaria ,Ceftriaxone,Effective
+106,acute  gastroenteritis,Ceftriaxone/ Gentamicin,Effective
+107,bronchopneumonia,Ceftriaxone/ Gentamicin,Effective
+108,acute gastroenteritis,Ceftriaxone/flagyl,Less Effective
+109,plasmodiasis,Gentamicin/ Ceftriaxone/ flagyl,Effective
+110,acute asthmatic attack,Ceftriaxone,Effective
+111,burns,Ceftriaxone/Gentamicin,Effective
+112,bronchopneumonia,Ceftriaxone/Gentamicin,Effective
+113,acute gastroenteritis,Ceftriaxone/flagyl,Effective
+114,gastroenteritis,Ceftriaxone/Gentamicin,Effective
+115,sepsis,Ceftriaxone/Gentamicin,Less Effective
+116,snake bite,Ceftriaxone/Gentamicin/flagyl,Effective
+117,gastroenteritis /pyrexia of unknown origin,Ceftriaxone/Gentamicin/flagyl,Effective
+118,gastroenteritis,Gentamicin/ Ceftriaxone/ flagyl,Effective
+119,malaria with  ENTERIC fever,Gentamicin/ Ceftriaxone/flagyl,Effective
+120,malaria with sickle cell disease,flagyl/ Ceftriaxone /gentamicin,Effective
+121,acute gastroenteritis,IV Gentamicin/ flagyl,Less Effective
+122,gastroenteritis,Gentamicin/ Ceftriaxone,Effective
+123,sickle cell disease,flagyl/ Ceftriaxone,Effective
+124,febrile convulsion, Ceftriaxone,Effective
+125,malaria / typhoid fever, Ceftriaxone,Effective
+126,malaria / sepsis, Ceftriaxone,Effective
+127,severe malaria,Ceftriaxone/Gentamicin,Effective
+128,Malaria / Upper Respiratory Tract Infection,Ceftriaxone/Gentamicin,Effective
+129,Severe malaria,Ceftriaxone/Gentamicin,Effective
+130,febrile convulsion due to severe malaria,Ceftriaxone/Gentamicin,Effective
+131,neonatal titannus ,Ceftriaxone/Gentamicin,Effective
+132,epididymo chi,Ceftriaxone/Gentamicin,Effective
+133,Upper Respiratory Tract Infection/ sepsis,Ceftriaxone,Effective
+134,acute Gastroenteritis,Ceftriaxone/Gentamicin,Less Effective
+135,Pyomyositis,Gentamicin/ Ceftriaxone,Effective
+136,Abdominal trauma,Gentamicin/ Ceftriaxone,Effective
+137,severe malaria,Gentamicin/ Ceftriaxone/ flagyl,Effective
+138,bronchopneumonia,Gentamicin/ Ceftriaxone/ flagyl,Effective
+139,sepsis/severe malaria,Gentamicin/ Ceftriaxone,Effective
+140,acute malaria  /acute gastroenteritis,IV(flagyl/ Ceftriaxone /gentamicin),Effective
+141,bronchopneumonia,IV Ceftriaxone/ flagyl,Effective
+142,injection abscess,flagyl/ Ceftriaxone,Effective
+143,neonatal sepsis,Gentamicin/ Ceftriaxone,Effective
+144,malaria /typhoid fever, Ceftriaxone/Gentamicin,Effective
+145,acute pyelonephritis, Cefuroxime/flagyl,Effective
+146,severe anemia / severe malaria, Ceftriaxone/ Gentamicin,Effective
+147,celebral malaria  /  gastritis,ciprofloxacin /flagyl,Effective
+148,right hydrocele, Cefuroxone/flagyl,Effective
+149,acute diarrhea , Ceftriaxone/ Gentamicin/flagyl,Effective
+150,Malaria ,Gentamicin/ Ceftriaxone,Effective
+151,Acute Gastroenteritis/  plasmodiasis,flagyl/ Ceftriaxone,Effective
+152,severe anemia due to severe malaria,Ceftriaxone/  IV flagyl,Effective
+153,malaria with dehydration, Ceftriaxone,Effective
+154,malaria with enteric fever,flagyl,Effective
+155,Pyomyositis  at right shoulder ,flagyl/ Ceftriaxone,Effective
+156,haemolytic crisis in  a known sickle cell diseases ,IV(flagyl/gentamicin),Effective
+157,bacterial meningitis,IV Ceftriaxone/ Gentamicin,Effective
+158,bronchopneumonia,Gentamicin,Effective
+159,dermatitis,flagyl/ Ceftriaxone,Effective
+160,Upper Respiratory Tract Infection,Gentamicin,Effective
+161,ruptured  appendix, iv Gentamicin/ flagyl,Effective
+162,sepsis, Ceftriaxone,Effective
+163,acute Gastroenteritis,Ceftriaxone/flagyl,Effective
+164,plasmodiasis,Ceftriaxone / metronidazol,Effective
+165,rape / vagina repair,Iv Ceftriaxone,Effective
+166,diarrhea/plasmodiasis,Gentamicin/ Ceftriaxone,Effective
+167,Gastroenteritis,Gentamicin/ Ceftriaxone,Effective
+168,malaria,Gentamicin/ Ceftriaxone/flagyl,Effective
+169,lymphedemas,iv(Gentamicin/ Ceftriaxone),Effective
+170,bronchopneumonia,Ceftriaxone/  IV flagyl,Effective
+171,lymphedemas, iv Ceftriaxone,Effective
+172,Gastroenteritis/ plasmodiasis,iv(Gentamicin/ Ceftriaxone),Effective
+173,severe malaria,gentamicin/ Ceftriaxone,Effective
+174,burns  due to assault/ severe malaria ,iv(Gentamicin/ Ceftriaxone),Effective
+175,neonatal sepsis,gentamicin/ Ceftriaxone,Effective
+176,sepsis,gentamicin/ Ceftriaxone,Effective
+177,severe malaria /sepsis,gentamicin/ Ceftriaxone,Effective
+178,malaria/bronchopneumonia/ sepsis,gentamicin/Ceftriaxone,Effective
+179,malaria /upper respiratory tract infection ,gentamicin/Ceftriaxone/flagyl,Effective
+180,multiple aberrations due road traffic accident ,Ceftriaxone,Effective
+181,emphysema,gentamicin/Ceftriaxone/flagyl,Effective
+182,septicemia,gentamicin/Ceftriaxone,Effective
+183,bruises on the forearm /fracture,gentamicin/Ceftriaxone,Effective
+184,upper respiratory tract infection ,gentamicin/Ceftriaxone,Effective
+185,deep laceration on the knee due to road traffic accident ,gentamicin/ augmentin / flagyl,Effective
+186,sepsis,rocephin / ceftriaxone / flagyl,Effective
+187,acute appendicitis,gentamicin,Effective
+188,acute gastroenteritis,gentamicin/Ceftriaxone,Effective
+189,severe plasmodiasis /  upper respiratory tract infection,gentamicin/Ceftriaxone,Effective
+190,severe plasmodiasis,gentamicin/Ceftriaxone/flagyl,Effective
+191,severe malaria / diarrhea,gentamicin/Ceftriaxone,Effective
+192,septic ulcer right upper trunk,gentamicin/Ceftriaxone/flagyl,Effective
+193,malaria dehydration,gentamicin/Ceftriaxone,Effective
+194,sepsis /rashes,gentamicin/Ceftriaxone,Effective
+195,plasmodiasis,gentamicin/Ceftriaxone/flagyl,Effective
+196,neonatal jaundice,gentamicin/Ceftriaxone,Effective
+197,acute bronchial asthma,crystalline penicillin/ gentamicin /ceftriaxone,Effective
+198,acute gastroenteritis with dehydration ,Ceftriaxone/flagyl,Effective
+199,plasmodiasis /gastroenteritis,gentamicin/Ceftriaxone/flagyl,Effective
+200,enteric fever,gentamicin/flagyl,Effective
+201,acute abdomen / malaria,gentamicin/Ceftriaxone/flagyl,Effective
+202,epididymo,gentamicin/Ceftriaxone,Effective
+203,severe malaria,gentamicin/rocephin,Effective
+204,bronchitis,gentamicin/cefuroxime,Effective
+205,severe malaria,gentamicin/Ceftriaxone,Effective
+206,intestinal obstruction,gentamicin/flagyl,Effective
+207,severe malaria /sepsis,Ceftriaxone,Effective
+208,plasmodiasis / upper respiratory tract infection,gentamicin/flagyl,Effective
+209,severe anemia due to severe malaria,gentamicin,Effective
+210,sickle cell disease/ osteomyelitis,rocephin / flagyl,Effective
+211,febrile convulsion ,gentamicin/Ceftriaxone,Effective
+212,acute gastroenteritis / plasmodiasis,Ceftriaxone/flagyl,Effective
+213,bilateral mumps /parotitis,gentamicin/Ceftriaxone,Effective
+214,severe malaria,flagyl / amoxicillin,Effective
+215,malaria / anemia,ceftriaxone,Effective
+216,convulsion due to severe malaria ,ceftriaxone / gentamicin,Effective
+217,febrile convulsion due to severe malaria / sepsis,Ceftriaxone / gentamicin/flagyl,Less Effective
+218,acute gastroenteritis / urinary tract infection / plasmodiasis ,gentamicin/flagyl /Ceftriaxone,Effective
+219,acute gastroenteritis due to food poisoning ,gentamicin / flagyl,Effective
+220,malaria,gentamicin/flagyl /Ceftriaxone,Effective
+221,severe malaria / severe mal-nutrition,gentamicin/Ceftriaxone / flagyl,Effective
+222,Acute malaria,gentamicin/flagyl,Effective
+223,Acute malaria/ bronchopneumonia,gentamicin/Ceftriaxone /flagyl,Effective
+224,Acute gastroenteritis / malaria ,flagyl /gentamicin/Ceftriaxone ,Effective
+225,Acute gastroenteritis in malaria,flagyl /gentamicin,Effective
+226,acute malaria,flagyl /gentamicin/Ceftriaxone ,Effective
+227,bronchopneumonia /acute malaria ,flagyl /gentamicin/Ceftriaxone ,Effective
+228,kerosine ingestion,flagyl /Ceftriaxone ,Effective
+229,upper respiratory tract infection ,flagyl /gentamicin/Ceftriaxone ,Effective
+230,febrile convulsion ,flagyl /gentamicin/Ceftriaxone ,Effective
+231,severe malaria / sepsis,gentamicin/Ceftriaxone ,Effective
+232,acute malaria,gentamicin/Ceftriaxone ,Effective
+233,malaria,gentamicin/Ceftriaxone ,Less Effective
+234,cardiovascular accident in a known sickle cell disease,Ceftriaxone,Less Effective
+235,malaria,gentamicin/Ceftriaxone ,Effective
+236,bronchitis,gentamicin/Ceftriaxone ,Effective
+237,first degree burns,gentamicin/Ceftriaxone ,Effective
+238,plasmodiasis/ tonsillitis,gentamicin/Ceftriaxone ,Effective
+239,down's syndrome / upper respiratory tract infection ,Ceftriaxone,Effective
+240,birth asphyxia,gentamicin/Ceftriaxone ,Effective
+241,gastroenteritis / malaria,gentamicin/Ceftriaxone ,Effective
+242,payomacitiis,gentamicin/Ceftriaxone ,Effective
+243,acute abdomen due to road traffic accident ,Ceftriaxone ,Effective
+244,acute malaria,Ceftriaxone ,Effective
+245,acute gastoenteritis,gentamicin/flagyl ,Effective
+246,bronchopnuemnia,gentamicin/Ceftriaxone ,Effective
+247,bronchopnuemnia,gentamicin/Ceftriaxone ,Effective
+248,unbilical hernia ,flagyl,Effective
+249,uncomplicated malaria,gentamecin,Effective
+250,malaria / upper respiratory tract infection ,gentamicin/Ceftriaxone ,Effective
+251,pectic ulcer disease,Ceftriaxone ,Effective
+252,meningiatis,gentamicin/Ceftriaxone ,Effective
+253,uncomplicated malaria ,gentamicin/Ceftriaxone ,Effective
+254,acute( malaria / gastroenteritis),flagyl ,Effective
+255,acute malaria,gentamicin/Ceftriaxone / flagyl,Effective
+256,road traffic accident ,flagyl/Ceftriaxone ,Effective
+257,road traffic accident ,gentamicin/Ceftriaxone ,Effective
+258,road traffic accident ,Ceftriaxone ,Effective
+259,road traffic accident ,Ceftriaxone,Effective
+260,sepsis,gentamicin/Ceftriaxone ,Effective
+261,malaria / upper respiratory tract infection,Ceftriaxone,Effective
+262,acute malaria with mild dehydration,Ceftriaxone ,Effective
+263,acute malaria with mild dehydration,Ceftriaxone,Effective
+264,diarrhea with severe dehydration ,Ceftriaxone / flagyl,Effective
+265,severe bronchopnuemonia with anemia ,gentamicin/Ceftriaxone ,Effective
+266,gastroenteritis with malaria,mesoprim/gentamicin /flagyl,Effective
+267,gastroenteritis with malaria,mesoprim/gentamicin ,Effective
+268,malaria with sepsis,IV Ceftriaxone,Effective
+269,gastroenteritis ,gentamicin/Ceftriaxone ,Effective
+270,pyloric stenosis,gentamicin/Ceftriaxone ,Effective
+271,acute malaria,mesoprim,Effective
+272,sepsis/ lymphocytosis,mesoprim/gentamicin ,Effective
+273,sepsis / malaria ,roscephin / gentamicin,Effective
+274,febrile convulsion,Ceftriaxone ,Effective
+275,Right ureteritis,gentamicin / roscephin,Effective
+276,malaria / acute diarrhea,Ceftriaxone/metronidazole/gentamicin,Effective
+277,malaria /sepsis,gentamicin,Effective
+278,neonatal sepsis / malaria,gentamicin/Ceftriaxone ,Effective
+279,neonatal sepsis,gentamicin/Ceftriaxone ,Effective
+280,febrile convulsion,Ceftriaxone ,Less Effective
+281,scabies,mesoprime /gentamicin,Effective
+282,malaria /sepsis,gentamicin/Ceftriaxone ,Effective
+283,congenital heart disease,gentamicin/Ceftriaxone ,Effective
+284,acute malaria / gastroenteritis,gentamicin/Ceftriaxone ,Effective
+285,severe anemia due to sepsis,gentamicin/Ceftriaxone ,Effective
+286,febrile convulsion,gentamicin/Ceftriaxone ,Effective
+287,severe dehydration due to plasmodiasis,mesoprim/gentamicin /flagyl,Effective
+288,malaria with severe anemia,Rocephin/ gentamicin/metronidaxone ,Effective
+289,moderate birth asphyxia,gentamicin/Ceftriaxone ,Less Effective
+290,diarrhea with severe dehydration,Ceftriaxone ,Effective
+291,malaria / acute upper respiratory tract infection ,gentamicin/Ceftriaxone ,Effective
+292,plasmodiasis,gentamicin/Ceftriaxone ,Effective
+293,poorly treated malaria,gentamicin/Ceftriaxone ,Effective
+294,complicated malaria with severe anemia ,gentamicin/Ceftriaxone ,Effective
+295,malaria with urinary tract infection ,septrin,Effective
+296,malaria,mesporin/gentamicin,Effective
+297,acute malaria / diarrhea,mesoprim/ /flagyl,Effective
+298,severe sepsis,rocephin,Effective
+299,malaria with severe sepsis,gentamicin/Ceftriaxone ,Effective
+300,sepsis,mesporin/gentamicin,Effective
+301,diarrhea with moderate dehydration ,mesporin/gentamicin,Effective
+302,malaria / enteritis,gentamicin/Ceftriaxone ,Effective
+303,poorly treated malaria,mesporin/gentamicin,Effective
+304,birth asphyxia / sepsis,gentamicin/Ceftriaxone ,Effective
+305,severe malaria,gentamicin/Ceftriaxone ,Effective
+306,severe anemia,gentamicin/Ceftriaxone ,Effective
+307,supervisal burns,Ceftriaxone ,Effective
+308,severe anemia,IV(gentamicin/Ceftriaxone) ,Effective
+309,bronchopnuemonia,gentamicin/cefueroxine ,Effective
+310,plasmodiasis,mesporin,Effective
+311,sepsis,IV(gentamicin/Ceftriaxone) ,Effective
+312,severe anemia due to abscess left side of the back,gentamicin/Ceftriaxone ,Effective
+313,complicated malaria,crystalline penicillin,Effective
+314,severe malaria / hypersplenism ,gentamicin/Ceftriaxone ,Effective
+315,malaria / bronchopneumonia,gentamicin/cefuroxime ,Effective
+316,plasmodiasis / tonsillitis,azithromycin,Effective
+317,malaria / enteric fever ,gentamicin/Ceftriaxone ,Effective
+318,bronchitis ,IV(gentamicin/Ceftriaxone) ,Effective
+319,bronchopnuemonia ,gentamicin/cefuroxime ,Effective
+320,malaria with moderate anemia ,gentamicin/mesprorin ,Effective
+321,severe malaria / severe anemia ,gentamicin/mesprorin ,Effective
+322,severe malaria / anemia / anemia,Ceftriaxone ,Effective
+323,severe malaria / anemia,gentamicin/Ceftriaxone ,Effective
+324,anemia / anemic heart failure due to malaria,IV Ceftriaxone,Effective
+325,malaria,gentamicin/mesporin ,Effective
+326,malaria,Ceftriaxone,Effective
+327,acute upper respiratory tract infection / moderate dehydration,gentamicin,Effective
+328,upper respiratory tract obstruction,gentamicin/ mesporin / crystalline penicillin,Effective
+329,acute malaria/upper respiratory tract infection,gentamicin/ Ceftriaxone / crystalline penicillin,Effective
+330,uncomplicated malaria ,gentamicin/ mesporin ,Effective
+331,bronchopnuemonia,gentamicin,Effective
+332,uncomplicated malaria / tonsillitis,Cefuroxine ,Effective
+333,abscess / sepsis,gentamicin/crystalline penicillin / Cefuroxine,Effective
+334,bronchopnuemonia/ malaria,cefuroxine ,Effective
+335,severe malaria / urinary tract infection ,gentamicin/Ceftriaxone ,Effective
+336,uncomplicated malaria,gentamicin/cefuroxime ,Effective
+337,malaria/ bronchopneumonia,gentamicin/cefuroxime ,Effective
+338,retroviral diseasea / mal-nutrition,gentamicin/Ceftriaxone ,Effective
+339,lobar pneumonia,crystalline penicillin/cefuroxime ,Effective
+340,neonatal(jaundice/ sepsis),gentamicin/mesporin/ crystalline penicillin,Effective
+341,poorly malaria / sepsis,gentamicin/mesporin,Effective
+342,intestinal obstruction,gentamicin/mesporin/ glagyl,Effective
+343,road traffic accident with bruses ,Ceftriaxone/flagyl,Effective
+344,road traffic accident with multiple bruses ,Ceftriaxone/flagyl,Effective
+345,malaria /sepsis,gentamicin/mesporin,Effective
+346,upper respiratory tract infection,gentamicin/Ceftriaxone ,Effective
+347,plasmodiasis,IV zinnat,Effective
+348,celebral malaria,IV(gentamicin/mesprorin) ,Effective
+349,hepatitis/ gastroenteritis,gentamicin/ceftriaxone/flagyl ,Effective
+350,malaria /  acute gastroenteritis,gentamicin/ceftriaxone ,Effective
+351,severe malaria ,gentamicin/Ceftriaxone ,Effective
+352,left gluteal infection due to birth trauma,gentamicin/Ceftriaxone ,Effective
+353,"uncomplicated ,malaria",IV gentamicin/cefueroxine ,Effective
+354,sepsis,gentamicin ,Effective
+355,pulmonary tuberculosis,Ceftriaxone ,Effective
+356,sepsis due to meningitis,gentamicin/mesporin,Effective
+357,anemia / severe bronchopneumonia ,gentamicin/mesporin,Less Effective
+358,bronchopneumonia,gentamicin/Ceftriaxone ,Effective
+359,sepsis / moderate diarrhea,gentamicin/Ceftriaxone ,Effective
+360,noenatal sepsis,gentamicin/Ceftriaxone ,Effective
+361,severe malaria  due to meningitis,IV(gentamicin/mesporin),Effective
+362,plasmodiasis,Ceftriaxone/flagyl,Effective
+363,sepsis/ malaria/ tonsillitis,cefueroxine/flagyl,Effective
+364,malaria / sepsis,cefueroxine/gentamicin,Effective
+365,uncomplicated malaria,gentamicin,Effective
+366,acute abdomen, iv zinnat /gentamicin,Effective
+367,titannus,zinnat/flagyl,Effective
+368,acute plasmodiasis/ gastroenteritis,gentamicin/Ceftriaxone ,Effective
+369,uncomplicated malaria ,cefueroxine/gentamicin,Effective
+370,furunculosis(rashes),cefueroxine/flagyl/Ceftriaxone,Effective
+371,sickle cell/severe anemia,IV gentamicin/Ceftriaxone ,Effective
+372,severe malaria / sepsis,gentamicin/Ceftriaxone ,Less Effective
+373,bronchopneumonia /malaria, iv zinnat /gentamicin,Effective
+374,spatic celebral palsy,gentamicin/Ceftriaxone ,Effective
+375,complicated malaria/ acute respiratory tract infection ,gentamicin/cefueroxine/ crystalline penicillin ,Effective
+376,multiple sepsis scald,gentamicin/Ceftriaxone ,Effective
+377,acute appendicitis,ciprofloxacin /flagyl/cefueroxine ,Effective
+378,severe bronchopneumonia,IV(gentamicin/Ceftriaxone),Effective
+379,malaria with severe,Ceftriaxone/gentamicin,Effective
+380,severe malaria / sepsis,gentamicin,Effective
+381,severe malaria with sepsis, iv zinnat /gentamicin,Effective
+382,asthma, iv zinnat /gentamicin,Effective
+383,lobar pneumonia / severe malaria , iv zinnat /gentamicin,Effective
+384,poorly treated malaria/bronchopneumonia, iv zinnat /gentamicin,Effective
+385,acute appendicitis,ciprofloxacin/flagyl,Effective
+386,neonatal sepsis, mesporin /gentamicin,Effective
+387,partially obstructed inguinoscrotal hernia ,cefuroxime/gentamicin,Effective
+388,severe birth asphyxia,gentamicin/Ceftriaxone / crystalline penicillin,Less Effective
+389,poorly treated severe malaria,IV gentamicin/Ceftriaxone ,Effective
+390,severe birth asphyxia,Ceftriaxone,Effective
+391,malaria,IV gentamicin/mesporin ,Effective
+392,febrile convulsion,IV gentamicin/mesporin /crystalline penicillin ,Effective
+393,dehydration / diarrhea, iv Ceftriaxone /gentamicin,Effective
+394,sepsis, iv gentamicin/ iv zinnat,Effective
+395,febrile convulsion due to severe malaria, gentamicin/Ceftriaxone ,Effective
+396,suspected meningitis, mesporin /crystalline penicillin,Effective
+397,scabies, zinnat /gentamicin,Effective
+398,severe anemia, mesporin /gentamicin,Effective
+399,fracture metacarpals due trauma , mesporin /gentamicin,Effective
+400,cellulitis,zinnat,Effective
+401,severe malaria / sepsis / severe bronchopneumonia,gentamicin/zinnat / crystalline penicillin,Effective
+402,severe (malnutrition / malaria)/ immuno suppression, gentamicin/rocephin  ,Effective
+403,severe malaria,gentamicin,Effective
+404,neonatal sepsis,gentamicin/mesporin ,Effective
+405,occipital cellulitis /septicaemia,gentamicin/  zinnat,Effective
+406,bronchopneumonia / severe malaria , gentamicin/ zinnat /crystalline penicillin /Ceftriaxone,Effective
+407,acute diarrhea / severe malaria,gentamicin/Ceftriaxone,Effective
+408,gastroenteritis / moderate dehydration,syrup septrin/ gentamicin/mesporin ,Effective
+409,poorly treated malaria /diarrhea , gentamicin/Ceftriaxone ,Effective
+410,foreign object in the left forearm, gentamicin/Ceftriaxone ,Effective
+411,bronchopneumonia/ severe malaria ,zinnat/  gentamicin ,Effective
+412,gangrenous forearm, flagyl/Ceftriaxone ,Effective
+413,extensive second degree burns , flagyl/Ceftriaxone ,Less Effective
+414,neonatal jaundice, gentamicin/Ceftriaxone ,Effective
+415,pyrexia of unknown origin, IV mesporin ,Effective
+416,malaria , mesporin /gentamicin,Effective
+417,supervisal burns , flagyl/Ceftriaxone ,Effective
+418,scalp cellulitis, zinnat /gentamicin,Effective
+419,severe malaria / helminthiasis, gentamicin/Ceftriaxone ,Effective
+420,severe malaria/ acute tonsillitis,zinnat,Effective
+421,malaria ,zinnat/gentamicin,Effective
+422,febrile convulsion,gentamicin/mesporin/ crystalline penicillin,Effective
+423,bronchopneumonia,gentamicin/zinnat/ crystalline penicillin,Effective
+424,skin sepsis,gentamicin/mesporin ,Effective
+425,lobar pneumonia,zinnat/gentamicin,Effective
+426,spatic celebral palsy,mesporin,Effective
+427,bronchiolitis,zinnat,Effective
+428,peptic ulcer / malaria,Ceftriaxone/ flagyl,Effective
+429,febrile convulsion due to severe malaria,mesporin/ crystalline penicillin,Effective
+430,febrile convulsion / severe malaria,gentamicin/mesporin/ crystalline penicillin,Effective
+431,severe anemia ,gentamicin/mesporin/ crystalline penicillin,Effective
+432,acute appendicitis/ sepsis / malaria,gentamicin/mesporin,Effective
+433,sepsis / malaria,gentamicin/mesporin,Effective
+434,malaria,gentamicin/ceftriaxone/ crystalline penicillin,Effective
+435,severe aspiration pneumonia,gentamicin/rocephin/ crystalline penicillin,Effective
+436,sepsis,gentamicin/mesporin/ crystalline penicillin,Effective
+437,respiratory tract infection,zinnat ,Effective
+438,bronchopneumonia,gentamicin/mesporin,Effective
+439,malaria,zinnat/gentamicin,Effective
+440,survical laceration (rape),gentamicin/ceftriaxone/,Effective
+441,tonsillitis,gentamicin/mesporin/ crystalline penicillin,Effective
+442,malaria,gentamicin/mesporin,Effective
+443,bronchopneumonia,zinnat /gentamicin/crystalline penicillin,Effective
+444,neonatal sepsis / malaria,gentamicin/ceftriaxone/,Effective
+445,sickle cell disease,gentamicin/ceftriaxone/ ,Effective
+446,malaria,gentamicin/ceftriaxone/ zinnat /crystalline penicillin,Effective
+447,uncomplicated malaria,gentamicin/ceftriaxone,Effective
+448,severe bronchopneumonia,gentamicin/rocephin/crystalline penicillin,Effective
+449,anemic heart failure ,ceftriaxone/gentamicin,Effective
+450,acute malaria ,ceftriaxone/gentamicin,Effective
+451,neonatal  sepsis,gentamicin/mesporin,Effective
+452,respiratory tract infection / malaria,zinnat /gentamicin/crystalline penicillin,Effective
+453,severe malaria  with moderate anemia,gentamicin/rocephin/crystalline penicillin,Less Effective
+454,bronchopneumonia/ malaria,zinnat /gentamicin,Effective
+455,severe  malaria / upper respiratory tract infection ,gentamicin/ceftriaxone,Effective
+456,acute malaria,gentamicin/rocephin,Effective
+457,diarrhea with moderate dehydration ,gentamicin/ceftriaxone,Effective
+458,gastroenteritis / dehydration / malaria ,gentamicin/ceftriaxone,Effective
+459,skin sepsis/ malaria ,gentamicin/rocephin ,Effective
+460,severe malaria,gentamicin/ceftriaxone,Effective
+461,gastroenteritis / moderate dehydration /  uncomplicated malaria ,gentamicin/rocephin ,Effective
+462, uncomplicated malaria / diarrhea with moderate dehydration,gentamicin/mesporin,Effective
+463,acute asthma,ceftriaxone,Effective
+464,acute gastroenteritis,gentamicin/ceftriaxone,Effective
+465,fourth degree perineal tear ,gentamicin/ceftriaxone,Effective
+466,orbital cellulitis,ceftriaxone /gentamicin/crystalline penicillin,Effective
+467,febrile convulsion / severe malaria,gentamicin/crystalline penicillin/ rocephin,Effective
+468,upper respiratory tract infection / malaria,gentamicin/ceftriaxone,Effective
+469,neonatal sepsis,gentamicin/ rocephin ,Less Effective
+470,febrile convulsion,gentamicin/crystalline penicillin/ rocephin/ zinnat,Effective
+471, bronchitis,rocephin,Effective
+472,tonsillitis / malaria ,gentamicin/crystalline penicillin/ zinnat,Effective
+473,urinary tract infection,mesporin/crystalline penicillin,Effective
+474,febrile convulsion,gentamicin/crystalline penicillin/ rocephin,Effective
+475,gastroenteritis/ dehydration,gentamicin/ mesporin,Effective
+476,severe bronchopneumonia,gentamicin/ mesporin/ crystalline penicillin,Effective
+477,febrile convulsion due to severe malaria ,gentamicin/crystalline penicillin/ mesporin,Effective
+478,acute  malaria / tonsillitis,gentamicin/crystalline penicillin/ zinnat,Effective
+479,respiratory tract infection /gastroenteritis,gentamicin/ mesporin,Effective
+480,febrile convulsion ,gentamicin/ mesporin,Effective
+481,furunculosis with abscess,ceftriaxone/gentamicin,Effective
+482,neonatal titannus ,gentamicin/crystalline penicillin/ mesporin,Effective
+483,severe bronchopneumonia,gentamicin/azithromycin mesporin,Effective
+484,neonatal sepsis,mesporin /gentamicin,Effective
+485,neonatal titannus,mesporin,Effective
+486,severe malaria,crystalline penicillin/ mesporin,Effective
+487,malaria,crystalline penicillin/ mesporin,Effective
+488,severe malaria ,crystalline penicillin/ mesporin/gentamicin,Effective
+489,sepsis,crystalline penicillin/ mesporin,Effective
+490,celebral malaria,crystalline penicillin/ mesporin,Effective
+491,head injury due to fall,flagyl / ceftriaxone,Effective
+492,acute diarrhea,flagyl / ceftriaxone,Effective
+493,febrile convulsion,crystalline penicillin/ ceftazidime /gentamicin,Effective
+494,gastroenteritis / malaria ,crystalline penicillin/ mesporin,Effective
+495,bronchopneumonia,crystalline penicillin/ rocephin/gentamicin,Effective
+496,acute appendicitis,flagyl / ciprofloxacin,Effective
+497,suspected meningitis,crystalline penicillin/ mesporin/gentamicin,Effective
+498,bronchopneumonia,crystalline penicillin/ mesporin/gentamicin,Effective
+499,bronchopneumonia,mesporin,Effective

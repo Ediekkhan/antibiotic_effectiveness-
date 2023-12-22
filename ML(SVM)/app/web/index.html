@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Model Web App</title>
+</head>
+<body>
+    <h1>Machine Learning Model Web App</h1>
+    <form method="post" action="{{ url_for('predict') }}">
+        <label for="diagnosis">Diagnosis:</label>
+        <input type="text" name="diagnosis" required><br>
+
+        <label for="drugs">Drugs:</label>
+        <input type="text" name="drugs" required><br>
+
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if result %}
+        <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>

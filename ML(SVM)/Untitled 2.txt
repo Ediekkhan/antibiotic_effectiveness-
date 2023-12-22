@@ -1,0 +1,18 @@
+I am eager to join the 3MTT to enhance my technical skills, particularly in software development, and further my professional development. The program's curriculum, covering [mention specific topics or modules], aligns perfectly with my career aspirations. I aim to leverage this opportunity to strengthen my problem-solving abilities, teamwork skills, and gain insights into industry best practices. The prospect of networking with like-minded individuals and experienced professionals in the [industry/field] is exciting, and I believe the practical project experiences offered will be invaluable for my learning journey. Ultimately, I see this program as a pivotal step in advancing my career in software development, and I am enthusiastic about the chance to contribute to and learn from the 3MTT community. Thank you for considering my application.
+
+
+
+hey after encoding i printed the value of X its duplicating the value again why 
+
+	diagnosis	drugs	Diagnosis	Drugs
+0	53	34	53	34
+1	33	21	33	21
+2	18	34	18	34
+3	14	36	14	36
+4	35	34	35	34
+...	...	...	...	...
+495	109	102	109	102
+496	72	109	72	109
+497	318	101	318	101
+498	109	101	109	101
+499	109	178	109	178
